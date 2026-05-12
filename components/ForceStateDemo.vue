@@ -19,7 +19,6 @@
 }
 
 .btn-wrapper {
-  //padding: 0.75rem 2rem;
   background: #6d4aab;
   border-radius: 0.75rem;
   cursor: pointer;
