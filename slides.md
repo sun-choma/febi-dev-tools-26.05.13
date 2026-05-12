@@ -4,7 +4,7 @@ title: DevTools Tips
 transition: slide-left
 ---
 
-# DevTools Tips
+# 🧰 DevTools Tips
 
 デバッグをレベルアップしよう — 初心者歓迎！ 🛠️
 
